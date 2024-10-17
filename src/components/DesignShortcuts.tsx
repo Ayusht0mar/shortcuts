@@ -46,7 +46,7 @@ const tools = [
 
 const DesignShortcuts = () => {
     return ( 
-        <div className="w-[84vw] mx-auto md:flex gap-8">
+        <div className="w-[84vw] mx-auto ">
             <div className="flex flex-col gap-4">
                 <Image
                     src="/developmenticon.svg"
