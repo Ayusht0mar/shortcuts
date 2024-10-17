@@ -1,69 +1,50 @@
-import Image from "next/image";
 import ToolCard from "./ToolCard";
 
 const tools = [
     {
-        title: "Adobe",
-        imgsrc: "/toolslogo/logo-adobeillustrator.png",
+        title: "Adobe After Effects",
+        imgsrc: "/toolslogo/adobe_after_effects.svg",
         href: "/"
     },
     {
-        title: "Adobe",
-        imgsrc: "/toolslogo/logo-adobeillustrator.png",
+        title: "Adobe Illustrator",
+        imgsrc: "/toolslogo/adobe_illustrator.svg",
         href: "/"
     },
     {
-        title: "Adobe",
-        imgsrc: "/toolslogo/logo-adobeillustrator.png",
+        title: "Adobe Indesign",
+        imgsrc: "/toolslogo/adobe_indesign.svg",
         href: "/"
     },
     {
-        title: "Adobe",
-        imgsrc: "/toolslogo/logo-adobeillustrator.png",
+        title: "Adobe Lightroom",
+        imgsrc: "/toolslogo/adobe_lightroom.svg",
         href: "/"
     },
     {
-        title: "Adobe",
-        imgsrc: "/toolslogo/logo-adobeillustrator.png",
+        title: "Adobe Photoshop",
+        imgsrc: "/toolslogo/adobe_photoshop.svg",
         href: "/"
     },
     {
-        title: "Adobe",
-        imgsrc: "/toolslogo/logo-adobeillustrator.png",
-        href: "/"
-    },
-    {
-        title: "Adobe",
-        imgsrc: "/toolslogo/logo-adobeillustrator.png",
-        href: "/"
-    },
-    {
-        title: "Adobe",
-        imgsrc: "/toolslogo/logo-adobeillustrator.png",
+        title: "Adobe XD",
+        imgsrc: "/toolslogo/adobe_xd.svg",
         href: "/"
     }
 ]
 
 const DesignShortcuts = () => {
     return ( 
-        <div className="w-[84vw] mx-auto ">
-            <div className="flex flex-col gap-4">
-                <Image
-                    src="/developmenticon.svg"
-                    alt="Development Icon"
-                    height={60}
-                    width={60}
-                />
-                <h2 className="font-extrabold text-2xl">
-                    Development shortcuts
-                </h2>
-            </div>
-            <div className="grid grid-cols-2 lg:grid-cols-4 gap-6 justify-start w-fit">
-                {tools.map((tools) => (
-                    <ToolCard key={tools.title} {...tools}/>
-                ))}
-            </div>
+        <div className="w-[84vw] mx-auto md:flex justify-between gap-8">
+        <h2 className="font-extrabold text-2xl lg:text-6xl lg:leading-snug text-[#B7B7BF]">
+            Design <br /> shortcuts
+        </h2>
+        <div className="grid grid-cols-2 lg:grid-cols-5 gap-6 justify-start w-fit">
+            {tools.map((tools) => (
+                <ToolCard key={tools.title} {...tools}/>
+            ))}
         </div>
+    </div>
      );
 }
  
