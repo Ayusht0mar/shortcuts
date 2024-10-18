@@ -2,43 +2,13 @@ import ToolCard from "./ToolCard";
 
 const tools = [
     {
-        title: "Android Studio",
-        imgsrc: "/toolslogo/logo-adobeillustrator.png",
+        title: "Atom",
+        imgsrc: "/toolslogo/atom.svg",
         href: "/"
     },
     {
-        title: "Adobe",
-        imgsrc: "/toolslogo/logo-adobeillustrator.png",
-        href: "/"
-    },
-    {
-        title: "Adobe",
-        imgsrc: "/toolslogo/logo-adobeillustrator.png",
-        href: "/"
-    },
-    {
-        title: "Adobe",
-        imgsrc: "/toolslogo/logo-adobeillustrator.png",
-        href: "/"
-    },
-    {
-        title: "Adobe",
-        imgsrc: "/toolslogo/logo-adobeillustrator.png",
-        href: "/"
-    },
-    {
-        title: "Adobe",
-        imgsrc: "/toolslogo/logo-adobeillustrator.png",
-        href: "/"
-    },
-    {
-        title: "Adobe",
-        imgsrc: "/toolslogo/logo-adobeillustrator.png",
-        href: "/"
-    },
-    {
-        title: "Adobe",
-        imgsrc: "/toolslogo/logo-adobeillustrator.png",
+        title: "Wordpress",
+        imgsrc: "/toolslogo/wordpress.svg",
         href: "/"
     }
 ]
