@@ -4,7 +4,7 @@ const tools = [
     {
         title: "Adobe After Effects",
         imgsrc: "/toolslogo/adobe_after_effects.svg",
-        href: "/"
+        href: "/adobeaftereffects"
     },
     {
         title: "Adobe Illustrator",
