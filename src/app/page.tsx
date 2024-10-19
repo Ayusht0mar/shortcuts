@@ -11,7 +11,7 @@ export default function Home() {
       <Header/>
       <HeroArea/>
       <DevelopmentShortcuts/>
-      <SponsorCard/>
+      {/* <SponsorCard/> */}
       <DesignShortcuts/>
       <ProductivityShortcuts/>
     </div>
