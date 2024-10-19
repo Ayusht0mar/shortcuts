@@ -2,13 +2,23 @@ import ToolCard from "./ToolCard";
 
 const tools = [
     {
-        title: "MS Excel",
-        imgsrc: "/toolslogo/ms_excel.svg",
+        title: "Chrome",
+        imgsrc: "/toolslogo/chrome_os.svg",
         href: "/"
     },
     {
-        title: "MS Onenote",
-        imgsrc: "/toolslogo/ms_onenote.svg",
+        title: "Google Calendar",
+        imgsrc: "/toolslogo/g-calendar.svg",
+        href: "/"
+    },
+    {
+        title: "Gmail",
+        imgsrc: "/toolslogo/gmail.svg",
+        href: "/"
+    },
+    {
+        title: "Google Meet",
+        imgsrc: "/toolslogo/google-meet.svg",
         href: "/"
     },
     {
@@ -25,7 +35,17 @@ const tools = [
         title: "MS Word",
         imgsrc: "/toolslogo/ms_word.svg",
         href: "/"
-    }
+    },
+    {
+        title: "Notion",
+        imgsrc: "/toolslogo/notion.svg",
+        href: "/"
+    },
+    {
+        title: "Zapier",
+        imgsrc: "/toolslogo/zapier.svg",
+        href: "/"
+    },
 ]
 
 const ProductivityShortcuts = () => {

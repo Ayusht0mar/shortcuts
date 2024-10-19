@@ -30,12 +30,32 @@ const tools = [
         title: "Adobe XD",
         imgsrc: "/toolslogo/adobe_xd.svg",
         href: "/"
-    }
+    },
+    {
+        title: "Figma",
+        imgsrc: "/toolslogo/figma.svg",
+        href: "/"
+    },
+    {
+        title: "Framer",
+        imgsrc: "/toolslogo/framer.svg",
+        href: "/"
+    },
+    {
+        title: "Sketch",
+        imgsrc: "/toolslogo/sketch.svg",
+        href: "/"
+    },
+    {
+        title: "Zeplin",
+        imgsrc: "/toolslogo/zeplin.svg",
+        href: "/"
+    },
 ]
 
 const DesignShortcuts = () => {
     return ( 
-        <div className="w-[84vw] mx-auto md:flex justify-between gap-8">
+        <div className="w-[84vw] mx-auto md:flex my-32 justify-between gap-8">
         <h2 className="font-extrabold text-2xl lg:text-6xl lg:leading-snug text-[#B7B7BF]">
             Design <br /> shortcuts
         </h2>
