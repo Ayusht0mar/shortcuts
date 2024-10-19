@@ -19,7 +19,7 @@ const tools = [
     {
         title: "VS Code",
         imgsrc: "/toolslogo/vs_code.svg",
-        href: "/"
+        href: "/visualstudiocode/"
     },
     {
         title: "Wordpress",
