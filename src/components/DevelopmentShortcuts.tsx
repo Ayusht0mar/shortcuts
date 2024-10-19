@@ -7,6 +7,11 @@ const tools = [
         href: "/"
     },
     {
+        title: "Docker",
+        imgsrc: "/toolslogo/docker.svg",
+        href: "/"
+    },
+    {
         title: "IntelliJ IDEA",
         imgsrc: "/toolslogo/jb_IntelliJIDEA.svg",
         href: "/"
@@ -24,11 +29,6 @@ const tools = [
     {
         title: "Sublime",
         imgsrc: "/toolslogo/sublime_text.svg",
-        href: "/"
-    },
-    {
-        title: "Wordpress",
-        imgsrc: "/toolslogo/wordpress.svg",
         href: "/"
     },
 ]
