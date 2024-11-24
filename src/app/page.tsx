@@ -8,8 +8,10 @@ import ProductivityShortcuts from "@/components/ProductivityShortcuts";
 export default function Home() {
   return (
     <div>
-      <Header/>
-      <HeroArea/>
+      <div className="bg-[#3f75ff]">
+        <Header/>
+        <HeroArea/>
+      </div>
       <DevelopmentShortcuts/>
       {/* <SponsorCard/> */}
       <DesignShortcuts/>
