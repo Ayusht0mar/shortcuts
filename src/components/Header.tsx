@@ -2,8 +2,8 @@ import Image from "next/image";
 
 const Header = () => {
     return ( 
-        <header className="py-6 px-6">
-          <div className="bg-white rounded-full py-4 px-8">
+        <header className="p-4 md:p-6">
+          <div className="bg-white rounded-full py-2 md:py-4 px-4 md:px-8">
             <div className="flex justify-between ">
                     <Image
                       src="/logo.svg"
@@ -11,7 +11,7 @@ const Header = () => {
                       width={48}
                       height={48}
                       />
-                      <button>Sponsor</button>
+                      <button className="bg-[#3f75ff] p-2 px-4 h-fit my-auto rounded-full text-white"><p>Sponsor</p></button>
             </div>
           </div>
         </header>

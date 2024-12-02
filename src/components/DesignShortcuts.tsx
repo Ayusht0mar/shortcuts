@@ -56,8 +56,8 @@ const tools = [
 const DesignShortcuts = () => {
     return ( 
         <div className="w-[84vw] mx-auto md:flex my-32 justify-between gap-8">
-        <h2 className="font-extrabold text-2xl lg:text-6xl lg:leading-snug text-[#B7B7BF]">
-            Design <br /> shortcuts
+            <h2 className="font-extrabold text-3xl mb-6 md:mb-0 lg:text-6xl leading-snug text-[#B7B7BF]">
+            Design <br /> Shortcuts
         </h2>
         <div className="grid grid-cols-2 lg:grid-cols-5 gap-6 justify-start w-fit">
             {tools.map((tools) => (
