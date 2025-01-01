@@ -4,47 +4,47 @@ const tools = [
     {
         title: "Chrome",
         imgsrc: "/toolslogo/chrome_os.svg",
-        href: "/"
+        href: "/chrome/"
     },
     {
         title: "Google Calendar",
         imgsrc: "/toolslogo/g-calendar.svg",
-        href: "/"
+        href: "/googlecalendar/"
     },
     {
         title: "Gmail",
         imgsrc: "/toolslogo/gmail.svg",
-        href: "/"
+        href: "/gmail/"
     },
     {
         title: "Google Meet",
         imgsrc: "/toolslogo/google-meet.svg",
-        href: "/"
+        href: "/googlemeet/"
     },
     {
         title: "MS Outlook",
         imgsrc: "/toolslogo/ms_outlook.svg",
-        href: "/"
+        href: "/msoutlook/"
     },
     {
         title: "MS Powerpoint",
         imgsrc: "/toolslogo/ms_powerpoint.svg",
-        href: "/"
+        href: "/mspowerpoint/"
     },
     {
         title: "MS Word",
         imgsrc: "/toolslogo/ms_word.svg",
-        href: "/"
+        href: "/msword/"
     },
     {
         title: "Notion",
         imgsrc: "/toolslogo/notion.svg",
-        href: "/"
+        href: "/notion/"
     },
     {
         title: "Zapier",
         imgsrc: "/toolslogo/zapier.svg",
-        href: "/"
+        href: "/zapies/"
     },
 ]
 
