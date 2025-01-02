@@ -44,7 +44,7 @@ const tools = [
     {
         title: "Zapier",
         imgsrc: "/toolslogo/zapier.svg",
-        href: "/zapies/"
+        href: "/zapier/"
     },
 ]
 
