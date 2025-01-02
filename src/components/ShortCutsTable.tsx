@@ -34,7 +34,7 @@ const ShortcutsTable = ({ pageTool }: { pageTool: string }) => {
           onChange={(e) => setSearchQuery(e.target.value)}
           aria-label="Search shortcuts"
         />
-        <div className="flex gap-4 bg-white rounded-full p-1">
+        <div className="flex bg-white rounded-full p-1">
           <button
             onClick={() => setActiveTab("Mac")}
             className={`px-4 rounded-full transition ${
