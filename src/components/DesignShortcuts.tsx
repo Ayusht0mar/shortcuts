@@ -4,52 +4,52 @@ const tools = [
     {
         title: "Adobe After Effects",
         imgsrc: "/toolslogo/adobe_after_effects.svg",
-        href: "/adobeaftereffects"
+        href: "/adobeaftereffects/"
     },
     {
         title: "Adobe Illustrator",
         imgsrc: "/toolslogo/adobe_illustrator.svg",
-        href: "/"
+        href: "/adobeillustrator/"
     },
     {
         title: "Adobe Indesign",
         imgsrc: "/toolslogo/adobe_indesign.svg",
-        href: "/"
+        href: "/adobeindesign/"
     },
     {
         title: "Adobe Lightroom",
         imgsrc: "/toolslogo/adobe_lightroom.svg",
-        href: "/"
+        href: "/adobelightroom/"
     },
     {
         title: "Adobe Photoshop",
         imgsrc: "/toolslogo/adobe_photoshop.svg",
-        href: "/"
+        href: "/adobephotoshop/"
     },
     {
         title: "Adobe XD",
         imgsrc: "/toolslogo/adobe_xd.svg",
-        href: "/"
+        href: "/adobexd/"
     },
     {
         title: "Figma",
         imgsrc: "/toolslogo/figma.svg",
-        href: "/"
+        href: "/figma/"
     },
     {
         title: "Framer",
         imgsrc: "/toolslogo/framer.svg",
-        href: "/"
+        href: "/framer/"
     },
     {
         title: "Sketch",
         imgsrc: "/toolslogo/sketch.svg",
-        href: "/"
+        href: "/sketch/"
     },
     {
         title: "Zeplin",
         imgsrc: "/toolslogo/zeplin.svg",
-        href: "/"
+        href: "/zeplin/"
     },
 ]
 

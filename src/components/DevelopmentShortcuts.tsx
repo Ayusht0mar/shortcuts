@@ -4,17 +4,17 @@ const tools = [
     {
         title: "Atom",
         imgsrc: "/toolslogo/atom.svg",
-        href: "/"
+        href: "/atom/"
     },
     {
         title: "Docker",
         imgsrc: "/toolslogo/docker.svg",
-        href: "/"
+        href: "/docker/"
     },
     {
         title: "IntelliJ IDEA",
         imgsrc: "/toolslogo/jb_IntelliJIDEA.svg",
-        href: "/"
+        href: "/interlijidea/"
     },
     {
         title: "VS Code",
@@ -24,12 +24,12 @@ const tools = [
     {
         title: "Wordpress",
         imgsrc: "/toolslogo/wordpress.svg",
-        href: "/"
+        href: "/wordpress/"
     },
     {
         title: "Sublime",
         imgsrc: "/toolslogo/sublime_text.svg",
-        href: "/"
+        href: "/sublime/"
     },
 ]
 
