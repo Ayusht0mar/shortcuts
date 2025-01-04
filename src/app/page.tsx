@@ -3,7 +3,6 @@ import DevelopmentShortcuts from "@/components/DevelopmentShortcuts";
 import Header from "@/components/Header";
 import HeroArea from "@/components/HeroArea";
 import ProductivityShortcuts from "@/components/ProductivityShortcuts";
-// import SponsorCard from "@/components/SponsorCard";
 
 export default function Home() {
   return (
@@ -13,9 +12,10 @@ export default function Home() {
         <HeroArea/>
       </div>
       <DevelopmentShortcuts/>
-      {/* <SponsorCard/> */}
       <DesignShortcuts/>
       <ProductivityShortcuts/>
+      
     </div>
+
   );
 }
