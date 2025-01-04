@@ -4123,114 +4123,114 @@ export const shortcuts = [
             {
                 "category": "General",
                 "content": [
-                    { "action": "Create New Document", "mac": "Cmd + N" },
-                    { "action": "Open Document", "mac": "Cmd + O" },
-                    { "action": "Save Document", "mac": "Cmd + S" },
-                    { "action": "Save As", "mac": "Cmd + Shift + S" },
-                    { "action": "Undo", "mac": "Cmd + Z" },
-                    { "action": "Redo", "mac": "Cmd + Shift + Z" },
-                    { "action": "Duplicate", "mac": "Cmd + D" },
-                    { "action": "Delete", "mac": "Delete" }
+                    { "action": "Create New Document", "mac": "Cmd + N", "windows":"" },
+                    { "action": "Open Document", "mac": "Cmd + O", "windows":""  },
+                    { "action": "Save Document", "mac": "Cmd + S", "windows":""  },
+                    { "action": "Save As", "mac": "Cmd + Shift + S", "windows":""  },
+                    { "action": "Undo", "mac": "Cmd + Z", "windows":""  },
+                    { "action": "Redo", "mac": "Cmd + Shift + Z", "windows":""  },
+                    { "action": "Duplicate", "mac": "Cmd + D", "windows":""  },
+                    { "action": "Delete", "mac": "Delete", "windows":""  }
                 ]
             },
             {
                 "category": "Navigation",
                 "content": [
-                    { "action": "Zoom In", "mac": "Cmd + +" },
-                    { "action": "Zoom Out", "mac": "Cmd + -" },
-                    { "action": "Fit to Canvas", "mac": "Cmd + 1" },
-                    { "action": "Actual Size", "mac": "Cmd + 0" },
-                    { "action": "Show/Hide Rulers", "mac": "Cmd + R" },
-                    { "action": "Pan Canvas", "mac": "Spacebar + Drag" }
+                    { "action": "Zoom In", "mac": "Cmd + +", "windows":""  },
+                    { "action": "Zoom Out", "mac": "Cmd + -", "windows":""  },
+                    { "action": "Fit to Canvas", "mac": "Cmd + 1", "windows":""  },
+                    { "action": "Actual Size", "mac": "Cmd + 0", "windows":""  },
+                    { "action": "Show/Hide Rulers", "mac": "Cmd + R", "windows":""  },
+                    { "action": "Pan Canvas", "mac": "Spacebar + Drag", "windows":""  }
                 ]
             },
             {
                 "category": "Tools",
                 "content": [
-                    { "action": "Move Tool", "mac": "V" },
-                    { "action": "Rectangle Tool", "mac": "R" },
-                    { "action": "Oval Tool", "mac": "O" },
-                    { "action": "Line Tool", "mac": "L" },
-                    { "action": "Pen Tool", "mac": "P" },
-                    { "action": "Text Tool", "mac": "T" },
-                    { "action": "Select Tool", "mac": "Cmd + Click" },
-                    { "action": "Hand Tool", "mac": "H" }
+                    { "action": "Move Tool", "mac": "V", "windows":""  },
+                    { "action": "Rectangle Tool", "mac": "R", "windows":""  },
+                    { "action": "Oval Tool", "mac": "O", "windows":""  },
+                    { "action": "Line Tool", "mac": "L" , "windows":"" },
+                    { "action": "Pen Tool", "mac": "P", "windows":""  },
+                    { "action": "Text Tool", "mac": "T", "windows":""  },
+                    { "action": "Select Tool", "mac": "Cmd + Click", "windows":""  },
+                    { "action": "Hand Tool", "mac": "H", "windows":""  }
                 ]
             },
             {
                 "category": "Editing",
                 "content": [
-                    { "action": "Cut", "mac": "Cmd + X" },
-                    { "action": "Copy", "mac": "Cmd + C" },
-                    { "action": "Paste", "mac": "Cmd + V" },
-                    { "action": "Paste in Place", "mac": "Cmd + Shift + V" },
-                    { "action": "Group Selection", "mac": "Cmd + G" },
-                    { "action": "Ungroup Selection", "mac": "Cmd + Shift + G" },
-                    { "action": "Bring to Front", "mac": "Cmd + Shift + ]" },
-                    { "action": "Send to Back", "mac": "Cmd + Shift + [" }
+                    { "action": "Cut", "mac": "Cmd + X", "windows":""  },
+                    { "action": "Copy", "mac": "Cmd + C", "windows":""  },
+                    { "action": "Paste", "mac": "Cmd + V", "windows":""  },
+                    { "action": "Paste in Place", "mac": "Cmd + Shift + V", "windows":""  },
+                    { "action": "Group Selection", "mac": "Cmd + G", "windows":""  },
+                    { "action": "Ungroup Selection", "mac": "Cmd + Shift + G", "windows":""  },
+                    { "action": "Bring to Front", "mac": "Cmd + Shift + ]", "windows":""  },
+                    { "action": "Send to Back", "mac": "Cmd + Shift + [", "windows":""  }
                 ]
             },
             {
                 "category": "Text",
                 "content": [
-                    { "action": "Bold Text", "mac": "Cmd + B" },
-                    { "action": "Italicize Text", "mac": "Cmd + I" },
-                    { "action": "Underline Text", "mac": "Cmd + U" },
-                    { "action": "Increase Font Size", "mac": "Cmd + +" },
-                    { "action": "Decrease Font Size", "mac": "Cmd + -" },
-                    { "action": "Align Left", "mac": "Cmd + Shift + L" },
-                    { "action": "Align Center", "mac": "Cmd + Shift + C" },
-                    { "action": "Align Right", "mac": "Cmd + Shift + R" }
+                    { "action": "Bold Text", "mac": "Cmd + B", "windows":""  },
+                    { "action": "Italicize Text", "mac": "Cmd + I", "windows":""  },
+                    { "action": "Underline Text", "mac": "Cmd + U", "windows":""  },
+                    { "action": "Increase Font Size", "mac": "Cmd + +", "windows":""  },
+                    { "action": "Decrease Font Size", "mac": "Cmd + -", "windows":""  },
+                    { "action": "Align Left", "mac": "Cmd + Shift + L", "windows":""  },
+                    { "action": "Align Center", "mac": "Cmd + Shift + C", "windows":""  },
+                    { "action": "Align Right", "mac": "Cmd + Shift + R", "windows":""  }
                 ]
             },
             {
                 "category": "Layers",
                 "content": [
-                    { "action": "Create New Layer", "mac": "Cmd + L" },
-                    { "action": "Duplicate Layer", "mac": "Cmd + D" },
-                    { "action": "Lock Layer", "mac": "Cmd + Shift + L" },
-                    { "action": "Unlock All Layers", "mac": "Cmd + Option + L" },
-                    { "action": "Group Layers", "mac": "Cmd + G" },
-                    { "action": "Ungroup Layers", "mac": "Cmd + Shift + G" },
-                    { "action": "Bring Forward", "mac": "Cmd + ]" },
-                    { "action": "Send Backward", "mac": "Cmd + [" }
+                    { "action": "Create New Layer", "mac": "Cmd + L", "windows":""  },
+                    { "action": "Duplicate Layer", "mac": "Cmd + D", "windows":""  },
+                    { "action": "Lock Layer", "mac": "Cmd + Shift + L", "windows":""  },
+                    { "action": "Unlock All Layers", "mac": "Cmd + Option + L", "windows":""  },
+                    { "action": "Group Layers", "mac": "Cmd + G", "windows":""  },
+                    { "action": "Ungroup Layers", "mac": "Cmd + Shift + G", "windows":""  },
+                    { "action": "Bring Forward", "mac": "Cmd + ]", "windows":""  },
+                    { "action": "Send Backward", "mac": "Cmd + [", "windows":""  }
                 ]
             },
             {
                 "category": "Shapes and Paths",
                 "content": [
-                    { "action": "Union Shapes", "mac": "Cmd + Option + U" },
-                    { "action": "Subtract Shapes", "mac": "Cmd + Option + S" },
-                    { "action": "Intersect Shapes", "mac": "Cmd + Option + I" },
-                    { "action": "Exclude Shapes", "mac": "Cmd + Option + X" },
-                    { "action": "Flatten Selection", "mac": "Cmd + E" }
+                    { "action": "Union Shapes", "mac": "Cmd + Option + U", "windows":""  },
+                    { "action": "Subtract Shapes", "mac": "Cmd + Option + S", "windows":""  },
+                    { "action": "Intersect Shapes", "mac": "Cmd + Option + I", "windows":""  },
+                    { "action": "Exclude Shapes", "mac": "Cmd + Option + X", "windows":""  },
+                    { "action": "Flatten Selection", "mac": "Cmd + E", "windows":""  }
                 ]
             },
             {
                 "category": "Prototyping",
                 "content": [
-                    { "action": "Create Link", "mac": "Cmd + Click" },
-                    { "action": "Preview Prototype", "mac": "Cmd + P" },
-                    { "action": "Start/Stop Preview", "mac": "Spacebar" }
+                    { "action": "Create Link", "mac": "Cmd + Click", "windows":""  },
+                    { "action": "Preview Prototype", "mac": "Cmd + P", "windows":""  },
+                    { "action": "Start/Stop Preview", "mac": "Spacebar", "windows":""  }
                 ]
             },
             {
                 "category": "Color and Styles",
                 "content": [
-                    { "action": "Apply Fill Color", "mac": "Shift + X" },
-                    { "action": "Toggle Between Fill and Stroke", "mac": "X" },
-                    { "action": "Open Color Picker", "mac": "Cmd + Shift + C" },
-                    { "action": "Apply Gradient", "mac": "G" },
-                    { "action": "Reverse Gradient", "mac": "Cmd + G" }
+                    { "action": "Apply Fill Color", "mac": "Shift + X", "windows":""  },
+                    { "action": "Toggle Between Fill and Stroke", "mac": "X", "windows":""  },
+                    { "action": "Open Color Picker", "mac": "Cmd + Shift + C", "windows":""  },
+                    { "action": "Apply Gradient", "mac": "G", "windows":""  },
+                    { "action": "Reverse Gradient", "mac": "Cmd + G", "windows":""  }
                 ]
             },
             {
                 "category": "Miscellaneous",
                 "content": [
-                    { "action": "Show/Hide Grid", "mac": "Cmd + '" },
-                    { "action": "Show/Hide Layout", "mac": "Cmd + L" },
-                    { "action": "Toggle Guides", "mac": "Cmd + ;" },
-                    { "action": "Lock Guides", "mac": "Cmd + Option + ;" }
+                    { "action": "Show/Hide Grid", "mac": "Cmd + '", "windows":""  },
+                    { "action": "Show/Hide Layout", "mac": "Cmd + L", "windows":""  },
+                    { "action": "Toggle Guides", "mac": "Cmd + ;", "windows":""  },
+                    { "action": "Lock Guides", "mac": "Cmd + Option + ;", "windows":""  }
                 ]
             }
         ]
