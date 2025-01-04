@@ -33,6 +33,9 @@ export default function RootLayout({
         <div>
           {children}
         </div>
+        <p className="text-center text-gray-500 my-10">
+          Made with ❤️ by <a href="https://ayushtomar.in" className="text-blue-500">Ayush Tomar</a>
+        </p>
         <Analytics/>
       </body>
     </html>
